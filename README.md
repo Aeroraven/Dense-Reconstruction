@@ -1,6 +1,5 @@
-# Dense-Reconstruction
-A 3D reconstruction project based on the monocular vision
-
+# Monocular Depth Estimation & Dense Reconstruction
+This is the mirrored repository of final project for Computer Vision, Tongji University SSE.
 
 
 ### Dependencies
@@ -18,3 +17,5 @@ A 3D reconstruction project based on the monocular vision
 - https://github.com/LearnOpenGL-CN/LearnOpenGL-CN
 - https://github.com/ethan-li-coding/SemiGlobalMatching/tree/master/SemiGlobalMatching
 
+### Collaborators
+HugePotatoMonster, GaryDing01, Aeroraven
