@@ -3,7 +3,7 @@ This is the mirrored repository of final project for Computer Vision, Tongji Uni
 Commits will not always be synchronized with the main repository, **so files in this repo is NOT THE LATEST.**
 
 
-### Dependencies
+### Dependencies (This Repo)
 
 - CMake
 - OpenCV 4.5
@@ -12,6 +12,15 @@ Commits will not always be synchronized with the main repository, **so files in 
   - GLAD
   - GLFW
   - GLM
+
+
+### Dependencies (Main Repo / Submitted Repo)
+
+- CMake
+- OpenCV 4.5
+- CUDA
+- Easy3D
+
 
 ### Acknowledgements
 
