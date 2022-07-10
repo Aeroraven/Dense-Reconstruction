@@ -13,7 +13,7 @@ Commits will not always be synchronized with the main repository, **so files in 
   - GLFW
   - GLM
 
-### Acknowledgement
+### Acknowledgements
 
 - https://github.com/LearnOpenGL-CN/LearnOpenGL-CN
 - https://github.com/ethan-li-coding/SemiGlobalMatching/tree/master/SemiGlobalMatching
